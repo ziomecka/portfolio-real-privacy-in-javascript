@@ -1,7 +1,9 @@
 var CarES5 = require("./car.js");
 
+/** Create the default car */
 var superCarES5 = new CarES5();
 
+/** Create my car */
 var myCarES5 = new CarES5({
     "brand": "Renault Clio",
     "color": "blue",
