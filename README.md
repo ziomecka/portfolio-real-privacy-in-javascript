@@ -1,0 +1,1 @@
+Coded on the basis of **Philip Walton's** article ["Implementing private and protected members in javascript"](https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/).

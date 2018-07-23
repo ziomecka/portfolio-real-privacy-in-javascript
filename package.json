@@ -1,0 +1,14 @@
+{
+  "name": "real-privacy-in-javascript",
+  "version": "1.0.0",
+  "description": "Coded on the basis of **Philip Walton's** article [\"Implementing private and protected members in javascript\"](https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "uniq": "^1.0.1"
+  }
+}
