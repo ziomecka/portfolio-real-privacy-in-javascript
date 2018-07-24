@@ -35,6 +35,11 @@ function Car(options) {
         return _().privateMileage;
     };
 
+    SubCar.prototype.destroy = function () {
+        privateObj = null;
+        _ = null;
+    }
+
     /** Create the car */
     return new SubCar(options);
 }
